@@ -1,20 +1,21 @@
 {
+  "version": "1.0.0",
   "name": "violet-dream",
   "displayName": "Violet Dream",
+  "description": "Soothing and serene color extension design to create a peaceful coding environment.",
   "author": "AlexandreFPGoncalves",
   "publisher": "AlexandreFPGoncalves",
-  "description": "A soothing and serene color extension design to create a peaceful coding environment.",
-  "icon": "images/violetdream.png",
+  "icon": "assets/violetdream.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlexandreFPGoncalves/violet-dream"
   },
-  "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "theme",
@@ -24,7 +25,9 @@
     "clean",
     "violet",
     "dream",
-    "peaceful"
+    "peaceful",
+    "violet dream",
+    "vsc theme"
   ],
   "contributes": {
     "themes": [
