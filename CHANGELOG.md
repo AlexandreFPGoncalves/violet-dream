@@ -1,9 +1,9 @@
-# Change Log
+# CHANGELOG.md
 
-All notable changes to the "violet-dream" extension will be documented in this file.
+## 1.0.0 (Released - 05-04-2023)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+_Features:_
 
-## [Unreleased]
-
-- Initial release
+- Added extension image
+- Added First full layer of styles
+- Released Package
