@@ -1,5 +1,13 @@
 # CHANGELOG.md
 
+## 1.0.3 (Released - 07-05-2023)
+
+_Features:_
+
+- Readme update;
+- Theme page update;
+- Constants colors hotfix;
+
 ## 1.0.2 (Released - 07-05-2023)
 
 _Features:_
