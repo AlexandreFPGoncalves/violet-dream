@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## 1.0.2 (Released - 07-05-2023)
+
+_Features:_
+
+- Borders, Terminal, IDE, Bars, Menus colors sync;
+- Editor Colors revamp;
+
 ## 1.0.1 (Released - 05-05-2023)
 
 _Features:_
@@ -9,7 +16,7 @@ _Features:_
 - Title bar color hotfix;
 - Low quality image fix;
 
-## 1.0.0 (Released - 05-04-2023)
+## 1.0.0 (Released - 04-05-2023)
 
 _Features:_
 
